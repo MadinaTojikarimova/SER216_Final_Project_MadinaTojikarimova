@@ -1,6 +1,6 @@
 # SER216 Final Project – Digital Parking Permit System
 
-Student: Madinaxon Tojikarimova
+Student: Madinaxon Tojikarimova  
 Date: 4th May, 2026
 
 ---
@@ -11,31 +11,27 @@ This project documents a Digital Parking Permit System for a university. It incl
 ---
 
 ## Tools Used
-| Tool | Purpose |
-|---|---|
-| Google Docs | Project report |
-| Google Sheets | Test case table |
-| diagrams.net | Workflow diagram |
-| GitHub | Version control and submission |
+- Google Docs – project report
+- Google Sheets – test case table
+- diagrams.net – workflow diagram
+- GitHub – version control and submission
 
 ---
 
 ## Files
-| File | Description |
-|---|---|
-| Final_PDF_Report.pdf | Main submission |
-| diagrams/Workflow_diagram.drawio.png | Workflow diagram |
-| tables/TestCase_Table.xlsx | Test cases |
-| screenshots/ | GitHub evidence screenshots |
+- Final_PDF_Report.pdf – main submission
+- diagrams/Workflow_diagram.drawio.png – workflow diagram
+- tables/TestCase_Table.xlsx – test cases
+- screenshots/ – GitHub evidence screenshots
 
 ---
 
 ## Tasks Completed
-- [x] Task 1: 4 functional and 2 non-functional requirements
-- [x] Task 2: Workflow diagram (Vehicle Registration to Parking Verification)
-- [x] Task 3: 6 test cases (System, Acceptance, Regression)
-- [x] Task 4: Defect analysis
-- [x] Task 5: GitHub evidence (branch, commits, pull request, merge)
+- Task 1: 4 functional and 2 non-functional requirements
+- Task 2: Workflow diagram (Vehicle Registration to Parking Verification)
+- Task 3: 6 test cases (System, Acceptance, Regression)
+- Task 4: Defect analysis
+- Task 5: GitHub evidence (branch, commits, pull request, merge)
 
 ---
 
